@@ -1,0 +1,39 @@
+_repo: Songs-of-the-Ridings_3232
+creator:
+  author:
+    agent_name: Moorman, F. W. (Frederic William)
+    aliases:
+    - Moorman, Frederick William
+    - Moorman, F. William
+    - Moorman, Frederic William
+    birthdate: 1872
+    deathdate: 1919
+    gutenberg_agent_id: '1062'
+    url: http://www.gutenberg.org/2009/agents/1062
+description: Songs of the Ridings.--Tales of the Ridings, with a memoir of the author
+  by C. Vaughan.--More tales of the Ridings.--Plays of the Ridings.
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2002-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3232'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yorkshire (England) -- Poetry'
+- !lcsh 'English poetry -- England -- Yorkshire'
+- !lcsh 'Dialect poetry, English -- England -- Yorkshire'
+- !lcsh 'Yorkshire (England) -- Languages -- History -- Sources'
+- !lcsh 'English language -- Dialects -- England -- Yorkshire -- Texts'
+- !lcc 'PR'
+tableOfContents: A Dalesman's Litany -- Cambodunum -- Telling the Bees -- The Two
+  Lamplighters -- Our Beck -- Lord George -- Jenny Storm -- The New Englishman --
+  The Bells of Kirkby Overblow -- The gardener and the Robin -- Lile Doad -- His last
+  Sail -- One Year Older -- The Hungry Forties -- The Flowers of Knaresborough Forest
+  -- The Miller by the Shore -- The Bride's Homecoming -- The Artist -- Marra to Bonney
+  -- Mary Mecca -- The Local Preacher -- The Courting Gate -- Fieldfares -- A Song
+  of the Yorkshire Dales -- The Flower of Wensleydale
+title: Songs of the Ridings
+url: http://www.gutenberg.org/ebooks/3232
