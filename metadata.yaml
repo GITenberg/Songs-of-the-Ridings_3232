@@ -1,5 +1,5 @@
 _repo: Songs-of-the-Ridings_3232
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -34,6 +34,7 @@ subjects:
 - !lcsh 'Yorkshire (England) -- Languages -- History -- Sources'
 - !lcsh 'English language -- Dialects -- England -- Yorkshire -- Texts'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: A Dalesman's Litany -- Cambodunum -- Telling the Bees -- The Two
   Lamplighters -- Our Beck -- Lord George -- Jenny Storm -- The New Englishman --
   The Bells of Kirkby Overblow -- The gardener and the Robin -- Lile Doad -- His last
